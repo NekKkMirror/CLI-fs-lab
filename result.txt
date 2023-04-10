@@ -1,9 +1,0 @@
-
-	 ------Information------
-         Nik Nik Nik,  5.200 .
-	 ------Information------
-         Nik Nik Nik,  5.200 .
-         Tom Tom Tom,  4.200 .
-	 ------Sort------
-         Tom Tom Tom,  4.200 .
-         Nik Nik Nik,  5.200 .
